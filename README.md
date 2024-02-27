@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Intro
+I am just a guy who likes OpenSource, and is lucky enough to earn a living supporing it.
+
+# 📊 Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duckunix&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=duckunix&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=duckunix&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=duckunix&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=duckunix&theme=radical)
